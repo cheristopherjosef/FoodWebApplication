@@ -55,9 +55,22 @@ body{
     left: 100px;
 } */
 
-.form-check
+/* .form-check
 {
     position: relative;
     left: 100px;
     padding: 20px;
+} */
+
+.form-check 
+{
+    position: relative;
+    left: px;
+    text-align: center;
+    padding: 20px;
+}
+.form-check-input
+{
+    position: relative;
+    left: 20%;
 }
