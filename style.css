@@ -44,7 +44,7 @@ body{
     text-align: center;
     padding: 0px;
 }
-.form-check
+/* .form-check
 {
     text-align: center;
     padding: 20px;
@@ -53,4 +53,11 @@ body{
 {
     position: relative;
     left: 100px;
+} */
+
+.form-check
+{
+    position: relative;
+    left: 100px;
+    padding: 20px;
 }
