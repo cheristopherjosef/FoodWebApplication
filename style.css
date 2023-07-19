@@ -69,7 +69,13 @@ body{
     text-align: center;
     padding: 20px;
 } */
+.form-control1
+{
+    position: relative;
+    bottom: 05px;
+}
+
 .form-check
 {
-    padding:20px;
+    padding: 20px;
 }
